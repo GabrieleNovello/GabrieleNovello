@@ -1,5 +1,10 @@
-## Hi there 👋
+## Gabriele Novello — computer engineering student forging a path through systems programming,  
+with a focus on C, C++, and low-level infrastructure.
 
+Building allocators, shells, and data systems to master the foundations —  
+and to craft what endures, beyond abstraction.
+
+Praise the code.
 <!--
 **GabrieleNovello/GabrieleNovello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
