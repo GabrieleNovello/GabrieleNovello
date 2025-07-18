@@ -1,5 +1,4 @@
-## **Gabriele Novello** — computer engineering student forging a path through systems programming  
-with a focus on C, C++, and low-level infrastructure.
+## **Gabriele Novello** — computer engineering student forging a path through systems programming, with a focus on C, C++, and low-level infrastructure.
 
 Building allocators, shells, and data systems to master the foundations —  
 and to craft what endures, beyond abstraction.
